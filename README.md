@@ -67,7 +67,7 @@ The Flutter application provides authentication, an environmental dashboard, sen
 
 | Sign in | Environmental dashboard |
 | --- | --- |
-| ![App sign-in screen](images/login.jpg) | ![Greenhouse dashboard](Screenshot_20250616-164036.jpg) |
+| ![App sign-in screen](Screenshot_20250616-164036.jpg) | ![Greenhouse dashboard](Screenshot_20250616-164106.jpg) |
 
 ### Sensor monitoring
 
