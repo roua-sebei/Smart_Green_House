@@ -10,7 +10,7 @@ This repository is a **project showcase** containing documentation, screenshots,
 
 The demonstration shows the physical greenhouse prototype and mobile controls operating together.
 
-**[▶ Watch the prototype demonstration](videos/greenhouse-demo.mp4)**
+**[▶ Watch the prototype demonstration](Messenger_creation_E8911E80-09B1-49D2-97D6-098C3E9EEF50.mp4)**
 
 > Add the supplied video to `videos/greenhouse-demo.mp4` in this repository for the link above to work.
 
@@ -67,19 +67,19 @@ The Flutter application provides authentication, an environmental dashboard, sen
 
 | Sign in | Environmental dashboard |
 | --- | --- |
-| ![App sign-in screen](images/login.jpg) | ![Greenhouse dashboard](images/dashboard.jpg) |
+| ![App sign-in screen](images/login.jpg) | ![Greenhouse dashboard](Screenshot_20250616-164036.jpg) |
 
 ### Sensor monitoring
 
 | Soil moisture | Indoor temperature |
 | --- | --- |
-| ![Soil moisture monitor](images/soil-moisture.jpg) | ![Indoor temperature monitor](images/temperature.jpg) |
+| ![Soil moisture monitor](Screenshot_20250616-164123.jpg) | ![Indoor temperature monitor](Screenshot_20250616-164222.jpg) |
 
 ### Manual and automatic control
 
 | Automatic mode | Manual mode |
 | --- | --- |
-| ![Automatic controls](images/automatic-mode.jpg) | ![Manual controls](images/manual-mode.jpg) |
+| ![Automatic controls](Screenshot_20250616-164235.jpg) | ![Manual controls](Screenshot_20250616-164246.jpg) |
 
 - **Manual mode:** control door and window positions, LEDs, fan, and irrigation from the app.
 - **Automatic mode:** apply sensor-based control rules, including climate-related ventilation and irrigation behavior.
